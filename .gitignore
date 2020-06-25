@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/proc_ont-checkpoint.ipynb
+*.owl
+Ontologies/catalog-v001.xml
+*.xml
