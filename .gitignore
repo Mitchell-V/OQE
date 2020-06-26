@@ -3,3 +3,5 @@
 *.owl
 Ontologies/catalog-v001.xml
 *.xml
+*.rdf
+runtime_graph.png
